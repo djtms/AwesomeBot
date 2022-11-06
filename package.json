@@ -16,7 +16,7 @@
     "sinon": "1.14.x",
     "nock": "1.7.x",
     "youtube-node": "1.2.x",
-    "google": "1.1.x",
+    "google": "1.5.0",
     "google-images": "0.1.x",
     "wikijs": "*",
     "cheerio": "*",
