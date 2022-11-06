@@ -12,7 +12,7 @@
     "request": ">=2.58.0",
     "querystring": "*",
     "underscore": "1.8.x",
-    "winston": "1.0.x",
+    "winston": "1.1.2",
     "sinon": "1.14.x",
     "nock": "1.7.x",
     "youtube-node": "1.2.x",
