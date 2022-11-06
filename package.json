@@ -50,10 +50,14 @@
     "emoji-dictionary": "*",
     "wiki-infobox-parser": "*",
     "mathjs": "*",
-    "xml-parser": "*"
+    "xml-parser": "*",
+    "@snyk/protect": "latest"
   },
   "scripts": {
-    "start": "node --max_old_space_size=450 bot.js --production"
+    "start": "node --max_old_space_size=450 bot.js --production",
+    "prepublish": "npm run snyk-protect",
+    "snyk-protect": "snyk-protect"
   },
-  "main": "bot.js"
+  "main": "bot.js",
+  "snyk": true
 }
