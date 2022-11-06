@@ -11,7 +11,7 @@
     "discord.js": "hydrabolt/discord.js#indev",
     "request": ">=2.58.0",
     "querystring": "*",
-    "underscore": "1.8.x",
+    "underscore": "1.13.6",
     "winston": "1.0.x",
     "sinon": "1.14.x",
     "nock": "1.7.x",
