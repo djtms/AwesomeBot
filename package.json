@@ -17,7 +17,7 @@
     "nock": "1.7.x",
     "youtube-node": "1.2.x",
     "google": "1.1.x",
-    "google-images": "0.1.x",
+    "google-images": "1.0.0",
     "wikijs": "*",
     "cheerio": "*",
     "fs": "*",
